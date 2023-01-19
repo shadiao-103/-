@@ -3,6 +3,10 @@ header:
     url:        https://microharddemo.github.io
   - title:      全站公告
     url:        /2023/01/10/welcome.html
+  - title:      关于
+    url:        /2023/01/10/about.html
+  - title:      B站
+    url:        
   - title:      B站
     url:        https://space.bilibili.com/1684665013
   - title:      GitHub
