@@ -1,11 +1,5 @@
 header:
-  - titles:
-      zh:       B站
-      zh-Hans:  B站
+  - title:      B站
     url:        https://space.bilibili.com/1684665013
-  - titles:
-      zh:       关于
-      zh-Hans:  关于
-    url:        /about.html
   - title:      GitHub
     url:        https://github.com/microharddemo
