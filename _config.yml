@@ -16,7 +16,6 @@
 
 ## => Site Settings
 ##############################
-theme: jekyll-text-theme
 text_skin: default # "ocean" (default)
 highlight_theme: default # "ocean" (default)
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
