@@ -28,4 +28,4 @@ tags: Microhard_1724
 
 如果输入文本后提示拒绝访问，请检查是否使用管理员身份运行程序。
 
-作者 Microhard Demo ，感谢B站[@柚子柚子l](https://space.bilibili.com/1377882998)的大力支持。
+作者 Microhard Demo，感谢B站[@柚子柚子l](https://space.bilibili.com/1377882998)的大力支持。
