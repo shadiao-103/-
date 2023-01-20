@@ -2,7 +2,7 @@
 layout: article
 title: 关于
 ---
-<br>
+
 ### 网站信息
 
 欢迎来到 Microhard Demo 的官方网站！
