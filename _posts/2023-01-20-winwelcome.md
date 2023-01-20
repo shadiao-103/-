@@ -9,6 +9,8 @@ tags: Microhard_1724
 
 支持的系统：Windows XP 及以上，基于NT内核的Windows系统均可运行。
 
+![Image](/好吧.webp){:.border}
+
 **下载链接**
 
 [点击这里就可以下载压缩包。](https://wwvg.lanzouf.com/igOta0lgthrg)
