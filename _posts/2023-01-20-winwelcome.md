@@ -3,6 +3,12 @@ title: 快速设置Windows不欢迎你(开机提示)
 tags: Microhard_1724
 ---
 
+之前在B站发了一个[Windows不欢迎你](https://www.bilibili.com/video/BV1mr4y1V7r5/?spm_id_from=333.999.0.0)的视频，很受欢迎，发布3天之内播放量就涨到了6万。
+
+但是，视频中的注册表操作方式很难，也很危险。所以我现在发布了专门编辑开机提示的应用程序(不如说是小脚本)。
+
+支持的系统：Windows XP 及以上，基于NT内核的Windows系统均可运行。
+
 **下载链接**
 
 [点击这里就可以下载压缩包。](https://wwvg.lanzouf.com/igOta0lgthrg)
