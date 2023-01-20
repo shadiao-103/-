@@ -1,4 +1,3 @@
-### 欢迎来到 Microhard Demo！
 
 <br>
 ### 逸一时，误一世
