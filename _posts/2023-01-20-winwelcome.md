@@ -9,7 +9,7 @@ tags: Microhard_1724
 
 支持的系统：Windows XP 及以上，基于NT内核的Windows系统均可运行。
 
-![Image](/好吧.webp){:.border}
+![Image](/using.webp){:.border}
 
 **下载链接**
 
@@ -28,4 +28,4 @@ tags: Microhard_1724
 
 如果输入文本后提示拒绝访问，请检查是否使用管理员身份运行程序。
 
-作者 Microhard Demo ，感谢B站(@柚子柚子l)[https://space.bilibili.com/1377882998]的大力支持。
+作者 Microhard Demo ，感谢B站[@柚子柚子l](https://space.bilibili.com/1377882998)的大力支持。
