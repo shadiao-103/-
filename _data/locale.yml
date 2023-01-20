@@ -4,7 +4,7 @@
 en: &EN
   SUBSCRIBE               : "没用的按钮"
   READMORE                : "阅读更多"
-  SEARCH                  : "搜索文章"
+  SEARCH                  : "搜索"
   CANCEL                  : "取消"
   VIEWS                   : "阅读"
   LAST_UPDATED            : "更新于"
@@ -36,7 +36,7 @@ en-AU:
 zh-Hans: &ZH_HANS
   SUBSCRIBE               : "没用的按钮"
   READMORE                : "阅读更多"
-  SEARCH                  : "搜索文章"
+  SEARCH                  : "搜索"
   CANCEL                  : "取消"
   VIEWS                   : "阅读"
   LAST_UPDATED            : "更新于"
