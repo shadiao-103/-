@@ -9,7 +9,7 @@ tags: Microhard_1724
 
 支持的系统：Windows XP 及以上，基于NT内核的Windows系统均可运行。
 
-![Image](/using.webp){:.border}
+![Image](/好吧.webp){:.border}
 
 **下载链接**
 
