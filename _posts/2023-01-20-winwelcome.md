@@ -1,5 +1,5 @@
 ---
-title: 快速设置Windows不欢迎你(开机提示)
+title: 无需注册表：Windows不欢迎你(开机提示)
 tags: Microhard_1724
 ---
 
