@@ -10,8 +10,16 @@ title: 主页
 由于技术限制，应用更新不会在应用内部推送，需要到网站检查，敬请谅解！
 {:.info}
 
-### 推荐应用
+### 无需注册表，制作开机提示
 
-**推荐：[无需注册表：Windows不欢迎你(开机提示)](https://microharddemo.github.io/2023/01/20/winwelcome.html)**
+之前在B站发了一个[Windows不欢迎你](https://b23.tv/oQV8VMP)的视频，但是视频中的注册表操作方式很难，也很危险。所以发布了专门编辑开机提示的应用程序。
+
+[了解详细信息](https://microharddemo.github.io/2023/01/20/winwelcome.html)
+
+### 上B站，看更多视频
+
+这里仅仅是发布应用的地方，所以你能看到的内容很少，更多内容请到 [Microhard_1724 的B站主页](https://b23.tv/5kBoF1E) 查看。
+
+### 更多应用
 
 您可以点击顶部导航栏的[应用下载](/blogs.html)或右上角搜索以查看更多应用。
