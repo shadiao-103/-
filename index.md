@@ -1,6 +1,3 @@
----
-title: Microhard Demo
----
 
 ### 逸一时，误一世
 
