@@ -3,6 +3,11 @@ layout: article
 title: 关于
 ---
 
+### 重要
+
+这个网站与Microhard公司没有任何关系！
+{:.warning}
+
 ### 网站信息
 
 欢迎来到 Microhard Demo 的官方网站！
