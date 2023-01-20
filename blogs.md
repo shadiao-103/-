@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: 文章列表
+title: 所有应用
 
 articles:
   data_source: site.posts
