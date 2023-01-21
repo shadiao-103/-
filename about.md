@@ -3,7 +3,17 @@ layout: article
 title: 关于
 ---
 
-### 重要
+### 通告
+
+经过两天半的测试，网站稳定版终于开始运行啦！
+
+在这里特别感谢[TeXt](https://kitian616.github.io/jekyll-TeXt-theme/test/)提供主题和代码框架。
+
+同时也感谢[Suntrise](https://suntrise.github.io/)帮助建设网站的主页，B站[@wuziqian211](https://b23.tv/BDF4OFl)提供深色模式的支持等等。
+
+如果有什么不满意，欢迎点击页面最下方邮件跟我联系。
+
+### 重要声明
 
 这个网站与Microhard公司没有任何关系！
 {:.warning}
@@ -12,17 +22,10 @@ title: 关于
 
 欢迎来到 Microhard Demo 的官方网站！
 
-官方网站仍是预览版，普通用户请前往B站查看更多。
-{:.info}
-
 这里仅仅是发布应用的地方，所以你能看到的内容很少，更多内容请到 [Microhard_1724 的B站主页](https://space.bilibili.com/1684665013) 查看。
 
 更新：支持深色模式，但是只是调暗了画面，跟随浏览器设置。
-{:.success}
-
-### 重要声明
-
-每个页面下面都会有不知道谁(估计是GitHub)提供的广告，不用管。
+{:.info}
 
 因为网站使用了TeXt的模板，网站还有小部分地方没有汉化，敬请谅解！
 
