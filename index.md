@@ -3,7 +3,7 @@ layout: article
 title: 主页
 ---
 
-### 新年新气象
+### 辞暮尔尔，烟火年年
 
 ![image](/6C53EC51-4028-49AF-812A-530A83A1DABD.jpeg){:.border}
 
