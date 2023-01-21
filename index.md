@@ -14,7 +14,13 @@ title: 主页
 
 之前在B站发了一个[Windows不欢迎你](https://b23.tv/oQV8VMP)的视频，但是视频中的注册表操作方式很难，也很危险。所以发布了专门编辑开机提示的应用程序。
 
-[了解详细信息](https://microharddemo.github.io/2023/01/20/winwelcome.html)
+[了解详细信息](2023/01/20/winwelcome.html)
+
+### Windows 8.1，但是PPT
+
+这个系列的PPT高仿Win8.1，都是按正常操作系统的操作逻辑进行的。Win8.1停止支持，但PPT仍未停止。
+
+[了解详细信息](/2023/01/21/winpptx.html)
 
 ### 上B站，看更多视频
 
