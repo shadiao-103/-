@@ -6,6 +6,7 @@ title: 关于
 ### 通告
 
 经过两天半的测试，网站稳定版终于开始运行啦！
+{:.success}
 
 在这里特别感谢[TeXt](https://kitian616.github.io/jekyll-TeXt-theme/test/)提供主题和代码框架。
 
