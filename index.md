@@ -31,3 +31,6 @@ B站推荐视频：[点击观看视频](https://b23.tv/euw947f)
 ### 下载更多应用
 
 Microhard一般只在主页放3个以内的推荐应用，您可以点击顶部导航栏的[应用下载](/blogs.html)或右上角搜索以查看更多应用。
+
+![image](/3D7A2F4A-C6E4-4B26-9A00-E72EA77CD02F.jpeg){:.border}
+
