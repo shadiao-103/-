@@ -6,8 +6,8 @@ title: 主页
 ### 每日一句
 
 <center id="hitokoto">
-  <h2><a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">:D 获取中……</a></h2>
-  <h3 id="hitokoto_from"></h3>
+  <a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">正在加载每日一句</a>
+  <id="hitokoto_from">
 </center>
   <br>
   <script type="text/javascript" src="title.js"></script>
