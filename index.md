@@ -5,10 +5,9 @@ title: 主页
 
 ### 每日一句
 
-<id="hitokoto">
-  <a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">正在加载每日一句</a>
-  <br>
-  <script type="text/javascript" src="title.js"></script>
+<a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">正在加载每日一句</a>
+<br>
+<script type="text/javascript" src="title.js"></script>
 
 ### 逸一时，误一世
 
