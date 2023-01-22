@@ -3,6 +3,15 @@ layout: article
 title: 主页
 ---
 
+### 每日一句
+
+<center id="hitokoto">
+  <h2><a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">:D 获取中……</a></h2>
+  <h3 id="hitokoto_from"></h3>
+</center>
+  <br>
+  <script type="text/javascript" src="title.js"></script>
+
 ### 逸一时，误一世
 
 为了不错过重要bug修复或新功能，安装应用程序后，您可以在网站上不定期检查是否有更新，我们会在每个应用的页面上标明最新版本，您可以跟您的应用版本进行对比，从而发现是否有更新。
