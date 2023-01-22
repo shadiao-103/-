@@ -5,10 +5,8 @@ title: 主页
 
 ### 每日一句
 
-<center id="hitokoto">
+<id="hitokoto">
   <a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">正在加载每日一句</a>
-  <id="hitokoto_from">
-</center>
   <br>
   <script type="text/javascript" src="title.js"></script>
 
