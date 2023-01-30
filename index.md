@@ -5,7 +5,7 @@ title: 主页
 
 ### 每日一句
 
-<a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">正在加载每日一句</a>
+<a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">逸一时，误一世，逸久逸久罢已龄！</a>
 <br>
 <script type="text/javascript" src="title.js"></script>
 
@@ -15,6 +15,12 @@ title: 主页
 
 由于技术限制，应用更新不会在应用内部推送，需要到网站检查，敬请谅解！
 {:.info}
+
+### iKUN必备魔改开始"蔡"单
+
+咋一看，这好像就是个普通的Win8开始菜单。但是如果你点击任何一个磁贴，你都会发现许多坤元素满满的惊喜！
+
+[了解详细信息](2023/01/25/cxk.html)
 
 ### 无需注册表，制作开机提示
 
