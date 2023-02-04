@@ -12,7 +12,7 @@ title: 关于
 
 同时也感谢[Suntrise](https://suntrise.github.io/)帮助建设网站的主页，B站[@wuziqian211](https://b23.tv/BDF4OFl)提供深色模式的支持，[Hitokoto](https://hitokoto.cn/)提供每日一句(其实不是每日，刷新就会变)等等。
 
-如果有什么不满意，欢迎点击页面最下方邮件跟我联系。
+如果有什么不满意，欢迎加入[讨论群](https://teams.live.com/l/invite/FEABWIvHiuVkeDqsQM)，或者点击页面最下方邮件跟我联系。
 
 这个网站与隔壁Microhard公司没有任何关系！
 {:.warning}
